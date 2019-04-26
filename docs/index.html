@@ -19,24 +19,37 @@ Like Button
 <div class="fb-like" data-href="https://shomwoys.github.io/pages/" data-width="" data-layout="button_count" data-action="like" data-size="large" data-show-faces="false" data-share="true"></div>
 
 
-<div style="display:none;"><!-- scripts -->
 
-<div id="fb-root"></div>
-<script async defer crossorigin="anonymous" src="https://connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v3.2&appId=2153816001576492&autoLogAppEvents=1"></script>
+<div id="footer">
+	<a href="privacy.md">プライバシーポリシー</a>
+</div>
+
+<!--------------------------------------------------------->
+<div style="display:none;">
 
 <!-- 
-<script>
-window.fbAsyncInit = function() {
-    FB.init({
-      appId            : '2153816001576492',
-      autoLogAppEvents : true,
-      xfbml            : true,
-      version          : 'v3.2'
-    });
-  };
-</script>
-<script async defer src="https://connect.facebook.net/en_US/sdk.js"></script>
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v3.2&appId=2153816001576492&autoLogAppEvents=1"></script>
  -->
+ 
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '2153816001576492',
+      xfbml      : true,
+      version    : 'v3.2'
+    });
+    FB.AppEvents.logPageView();
+  };
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "https://connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+</script>
 
 <script async src="/pages/js/_template.js"></script>
 </div>
