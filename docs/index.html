@@ -2,6 +2,11 @@
 <html>
 <head>
 <title>Hello Github Pages</title>
+<meta property="og:url"           content="https://shomwoys.github.io/pages/" />
+<meta property="og:type"          content="website" />
+<meta property="og:title"         content="My First Github Page" />
+<meta property="og:description"   content="My first Github Page sample" />
+<meta property="og:image"         content="https://placehold.jp/1200x630.jpg?text=My%20First%20Github%20Pages" />
 <link rel="stylesheet" href="/pages/css/_template.css">
 </head>
 <body>
@@ -9,7 +14,28 @@
 <p>
 <a href="https://shomwoys.github.io/pages">Link</a>
 </p>
+
+Like Button
+<div class="fb-like" data-href="https://shomwoys.github.io/pages/" data-width="" data-layout="button_count" data-action="like" data-size="large" data-show-faces="false" data-share="true"></div>
+
+
 <div style="display:none;"><!-- scripts -->
+
+<!-- 
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v3.2&appId=2153816001576492&autoLogAppEvents=1"></script><script>
+-->
+
+<div id="fb-root"></div>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId            : '2153816001576492',
+      autoLogAppEvents : true,
+      xfbml            : true,
+      version          : 'v3.2'
+    });
+  };
+</script>
+<script async defer src="https://connect.facebook.net/en_US/sdk.js"></script>
 <script async src="/pages/js/_template.js"></script>
 </div>
 </body>
