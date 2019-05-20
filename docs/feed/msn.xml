@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:media="http://search.yahoo.com/mrss/"
+	xmlns:mi="http://schemas.ingestion.microsoft.com/common/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dcterms="http://purl.org/dc/terms/"
+	version="2.0">
+
+	<channel>
+		<title>msn rss</title>
+		<link>http://dino.singles:8084</link>
+		<description>msn rss desc</description>
+		
+		<language>ja</language>
+		<lastBuildDate>Mon, 20 May 2019 18:39:33 +0900</lastBuildDate>
+		<pubDate>Mon, 20 May 2019 18:39:33 +0900</pubDate>
+		<ttl>5</ttl>
+		
+		
+			
+		<item>
+			<title>Instagram Raw Embed test</title>
+			<link>http://dino.singles:8084/_ct/16777683</link>
+			<guid>http://dino.singles:8084/_ct/16777683</guid>
+			<pubDate>Mon, 20 May 2019 17:45:30 +0900</pubDate>
+			<atom:updated>Mon, 20 May 2019 17:45:30 +0900</atom:updated>
+			
+			<dc:creator>localportal</dc:creator>
+			<description>この投稿をInstagramで見る
+Taylor Swiftさん(@taylorswift)がシェアした投稿 - 2018年10月月7日午後4時33分PDT</description>
+			
+			<content:encoded><![CDATA[  <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/BopoXpYnCes/" data-instgrm-version="12" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:16px;"> <a href="https://www.instagram.com/p/BopoXpYnCes/" style=" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;" target="_blank"> <div style=" display: flex; flex-direction: row; align-items: center;"> <div style="background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;"></div> <div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center;"> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;"></div> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;"></div></div></div><div style="padding: 19% 0;"></div> <div style="display:block; height:50px; margin:0 auto 12px; width:50px;"></div><div style="padding-top: 8px;"> <div style=" color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;"> この投稿をInstagramで見る</div></div><div style="padding: 12.5% 0;"></div> <div style="display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;"><div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);"></div> <div style="background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;"></div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);"></div></div><div style="margin-left: 8px;"> <div style=" background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;"></div> <div style=" width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)"></div></div><div style="margin-left: auto;"> <div style=" width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);"></div> <div style=" background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);"></div> <div style=" width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);"></div></div></div> <div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;"> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;"></div> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;"></div></div></a><p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a href="https://www.instagram.com/p/BopoXpYnCes/" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">Taylor Swiftさん(@taylorswift)がシェアした投稿</a> - <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2018-10-07T23:33:38+00:00">2018年10月月7日午後4時33分PDT</time></p></div></blockquote> ]]></content:encoded>
+			
+			
+			
+		</item>
+		
+			
+		<item>
+			<title>Amazon | knog(ノグ) POP I FRONT BLACK 11802 | KNOG(ノグ) | ヘッドライト</title>
+			<link>http://dino.singles:8084/_ct/16777681</link>
+			<guid>http://dino.singles:8084/_ct/16777681</guid>
+			<pubDate>Tue, 07 May 2019 14:22:02 +0900</pubDate>
+			<atom:updated>Tue, 07 May 2019 14:22:02 +0900</atom:updated>
+			
+			<enclosure url="https://d3em87cwiz6on0.cloudfront.net/localhost-example-com-8000/f/16777219/rc/2019/05/08/bea5e92cfd82183fadf27f22ed8f528731d74f31.jpg" type="image/jpeg" length="0" caption="" />
+			
+			<dc:creator>localportal</dc:creator>
+			<description>サマリ内の 外部リンク ですよ。</description>
+			
+			<content:encoded><![CDATA[<p class="summary">サマリ内の <span data-href="https://www.google.com/">外部リンク</span> ですよ。</p><p>本文内の <span data-href="https://www.google.com/">外部リンク</span> ですよ。</p><p class="cite-box"><span data-href="https://www.amazon.co.jp/dp/B011RIATOK/">Amazon | knog(ノグ) POP I FRONT BLACK 11802 | KNOG(ノグ) | ヘッドライト</span></p><p class="cite-box"><span data-href="https://www.amazon.co.jp/dp/B011RIATOK/">Amazon | knog(ノグ) POP I FRONT BLACK 11802 | KNOG(ノグ) | ヘッドライト</span></p>]]></content:encoded>
+			
+			
+			
+		</item>
+		
+			
+		<item>
+			<title>埋め込みTweetのAMP対応調査</title>
+			<link>http://dino.singles:8084/_ct/16777679</link>
+			<guid>http://dino.singles:8084/_ct/16777679</guid>
+			<pubDate>Thu, 25 Apr 2019 17:20:34 +0900</pubDate>
+			<atom:updated>Thu, 25 Apr 2019 17:20:34 +0900</atom:updated>
+			
+			<enclosure url="https://d3em87cwiz6on0.cloudfront.net/localhost-example-com-8000/f/16777219/rc/2019/04/25/b20eda65a3dffff7d533915641294d061e63e4f2.jpg" type="image/jpeg" length="0" caption="" />
+			
+			<dc:creator>localportal</dc:creator>
+			<description>#世界ペンギンの日
+ショウテイペンギンその２ pic.twitter.com/ONMM83pnZ8
+— 一智和智バーサスアース続編更新中 (@burningblossom) April 25, 2019
+一智和智バーサスアース続編更新中 on Twitter
+twitter.com
+ほげほげお
+17万フォロワーありがとうございます…！ pic.twitter.com/jdzYf2RQ1D
+— 横山了一 (@yokoyama_bancho) April 24, 2019
+横山了一 on Twitter
+twitter.com
+あああああああ
+View this post on Instagram
+湘南ローカルWEBメディア『PADDLER SHONAN』にて鈴木を紹介頂いております。生まれ育った箱根への想いや将来...お時間ある時に是非こちらのサイトへお立ち寄り頂けたら嬉しいです。 @paddler_shonan @patagoniajp @koki.saito.photographer @mountaingeneralstore THE PADDLER 032 Mr. Mr.Norihito Suzukiをアップしました。﻿ 湘南には、自分らしく人生を切り拓くために漕ぎ出す男たち＝THE PADDLERがいる。彼らを突き動かすもの、そして、視線の先にあるものは？ INPUTとOUTPUTという二つのワードから、その行動を探る。﻿ 今回のTHE PADDLERは、箱根をフィールドにマウンテンバイクやハイキングのツアーを実施する「ハコネマウンテンリッパー」を主宰する鈴木教仁さんをご紹介します。近々、カフェを併設したショップが完成予定するなど、生まれ育った箱根をベースにチャレンジを続ける鈴木さんの、これまでとこれからとは…ぜひ、パドラーウェブよりご覧下さい。﻿ ﻿ #湘南 #shonan #平塚 #hiratsuka #茅ヶ崎 #chigasaki #藤沢 #fujisawa #鎌倉 #kamakura #逗子 #zushi #葉山 #hayama #大磯 #oiso #二宮 #ninomiya #小田原 #odawara  # #辻堂　# 箱根  #鵠沼  Photo by @koki.saito.photographer
+A post shared by HakoneMountainRipper (@mountainripper) on Apr 23, 2019 at 2:06am PDT
+HakoneMountainRipper on Instagram: “湘南ローカルWEBメディア『PADDLER SHONAN』にて鈴木を紹介頂いております。生まれ育った箱根への想いや将来...お時間ある時に是非こちらのサイトへお立ち寄り頂けたら嬉しいです。 @paddler_shonan @patagoniajp…”
+www.instagram.com</description>
+			
+			<content:encoded><![CDATA[<p data-collapsed="figure."> [ コンテンツが省略されました。オリジナルサイトでご覧ください ]</p><p>ほげほげお</p><p data-collapsed="figure."> [ コンテンツが省略されました。オリジナルサイトでご覧ください ]</p><p>あああああああ</p><p data-collapsed="figure."> [ コンテンツが省略されました。オリジナルサイトでご覧ください ]</p>]]></content:encoded>
+			
+			
+			
+		</item>
+		
+			
+		<item>
+			<title>カバー画像引用テスト</title>
+			<link>http://dino.singles:8084/_ct/16777677</link>
+			<guid>http://dino.singles:8084/_ct/16777677</guid>
+			<pubDate>Fri, 19 Apr 2019 16:48:29 +0900</pubDate>
+			<atom:updated>Fri, 19 Apr 2019 16:48:29 +0900</atom:updated>
+			
+			<enclosure url="https://d3em87cwiz6on0.cloudfront.net/localhost-example-com-8000/f/16777219/rc/2019/04/19/e01b398e92356b8e028def9e7e58bbd67a8ba6b0.jpg" type="image/jpeg" length="0" caption="" />
+			
+			<dc:creator>localportal</dc:creator>
+			<description>直接アップロード
+ページングあり
+LAWRENCE - Motorcycle x Cars + α = Your Life.
+LAWRENCE（ロレンス）はモーターサイクル x スポーツカー + α。オトナのためのライフスタイル&amp;エンターテインメントマガジンです。
+あなたの欲しい”α”を提案していきます。
+仕事も頑張ってる、社会的身分もできた。それでも10代の頃の気分を忘れない、そんな永遠の不良少年たちへ！
+ロレンスは、モーターサイクルやスポーツカー、ラグジュアリーなハイファッションを生活に積極的に取り入れていく、上昇志向を持つ大人のためのデジタルマガジンです。良質なコンテンツの提供者として毎日更新をし...
+lrnc.cc
+via text for root image block
+via link text for root image block
+
+映画『スター・ウォーズ／ザ・ライズ・オブ・スカイウォーカー』（原題）特報
+www.youtube.com
+ここはキャプション
+via text in lbox
+ふむふむなるほどぷー
+View this post on Instagram
+薬膳カレー美味しい(灬ºωº灬)！ #ほんたき山のカフェ #薬膳カレー #カレー #湯葉
+A post shared by Kana@常に山へ行きたい (@kanasyuka) on Apr 21, 2019 at 4:31am PDT
+Kana@常に山へ行きたい on Instagram: “薬膳カレー美味しい(灬ºωº灬)！ #ほんたき山のカフェ #薬膳カレー #カレー #湯葉”
+www.instagram.com</description>
+			
+			<content:encoded><![CDATA[<p>直接アップロード</p><p>ページングあり</p><p class="cite-box"><span data-href="https://lrnc.cc/">LAWRENCE - Motorcycle x Cars + α = Your Life.</span></p><p><figure><img src="https://d3em87cwiz6on0.cloudfront.net/localhost-example-com-8000/f/16777219/rc/2019/04/22/604bfcbbab3a5fb7db7e3e7eaca8607bed4cb772_xlarge.jpg" data-org-height="833" data-org-width="1280" width="960" data-org-src="https://d3em87cwiz6on0.cloudfront.net/localhost-example-com-8000/f/16777219/rc/2019/04/22/28c20510c0cc7ff5e9ee53ecbf42e3a4da6cf8bf_xlarge.jpg" data-file="16780553" alt="画像: via text for root image block via link text for root image block" height="624"><figcaption><div>via text for root image block</div><span style="" data-href="https://www.google.com/">via link text for root image block</span></figcaption></figure></p><p data-collapsed="figure."> [ コンテンツが省略されました。オリジナルサイトでご覧ください ]</p><p><figure><img src="https://d3em87cwiz6on0.cloudfront.net/localhost-example-com-8000/f/16777219/rc/2019/04/22/c3a7858b5b4822794822efdac1ef311fe9d99eef.jpg" data-org-height="260" data-org-width="260" width="260" data-org-src="https://d3em87cwiz6on0.cloudfront.net/localhost-example-com-8000/f/16777219/rc/2019/04/22/2cf23d15bdde338161df01ba8fc7082fde8ccfb0.jpg" data-file="16780555" alt="画像: ここはキャプション via text in lbox" height="260"><figcaption>ここはキャプション<div>via text in lbox</div></figcaption></figure></p><p>ふむふむなるほどぷー</p><p data-collapsed="figure."> [ コンテンツが省略されました。オリジナルサイトでご覧ください ]</p>]]></content:encoded>
+			
+			
+			
+		</item>
+		
+			
+		<item>
+			<title>lbox の AMP化調査用</title>
+			<link>http://dino.singles:8084/_ct/16777676</link>
+			<guid>http://dino.singles:8084/_ct/16777676</guid>
+			<pubDate>Fri, 19 Apr 2019 13:13:16 +0900</pubDate>
+			<atom:updated>Fri, 19 Apr 2019 13:13:16 +0900</atom:updated>
+			
+			<enclosure url="https://d3em87cwiz6on0.cloudfront.net/localhost-example-com-8000/f/16777219/rc/2019/04/19/b808f00c184db481090e88a8c15f17721424f3bd_xlarge.jpg" type="image/jpeg" length="0" caption="" />
+			
+			<dc:creator>localportal</dc:creator>
+			<description>via text for standard image-box
+２カラムで大きい画像を左側に
+右文章右文章右文章右文章右文章右文章右文章右文章右文章右文章右文章右文章右文章右文章右文章右文章右文章右文章右文章右文章右文章右文章右文章右文章右文章右文章右文章右文章右文章
+右文章右文章右文章右文章右文章右文章右文章
+右文章右文章右文章右文章右文章右文章
+本文中のキャプションをカバーに流用
+カスタムで大きい画像を左に
+あああああああ
+いいいいいいい
+うううううううあああああああ
+いいいいいいい
+うううううううあああああああ
+いいいいいいい
+うううううううあああああああ
+いいいいいいい
+ううううううう
+あああああああ
+いいいいいいい
+うううううううあああああああ
+いいいいいいい
+うううううううあああああああ
+いいいいいいい
+うううううううあああああああ
+いいいいいいい
+うううううううあああああああ
+いいいいいいい
+ううううううう
+あああああああ
+いいいいいいい
+ううううううう
+ええええええええ
+本文画像ブロックのキャプションあああ
+via text for image block
+via link text</description>
+			
+			<content:encoded><![CDATA[<p><figure><img src="https://d3em87cwiz6on0.cloudfront.net/localhost-example-com-8000/f/16777219/rc/2019/04/19/18c3237466e64a55a6057d027d1a8881415374f1.jpg" data-org-height="260" data-org-width="260" width="260" data-org-src="https://d3em87cwiz6on0.cloudfront.net/localhost-example-com-8000/f/16777219/rc/2019/04/19/633b5b13196eb64e5a1bd1cec9129d6b93acc8e4.jpg" data-file="16780547" alt="画像: via text for standard image-box" height="260"><figcaption><div>via text for standard image-box</div></figcaption></figure></p><p><figure><img src="https://d3em87cwiz6on0.cloudfront.net/localhost-example-com-8000/f/16777219/rc/2019/04/19/058e5535969134477308068dc4f018eb2d5b08c1_xlarge.jpg" data-file="16780544" data-org-width="1280" data-org-height="853" alt="画像: lbox の AMP化調査用" height="853" width="1280"><figcaption><div></div></figcaption></figure></p><p>２カラムで大きい画像を左側に</p><p>右文章右文章右文章右文章右文章右文章右文章右文章右文章右文章右文章右文章右文章右文章右文章右文章右文章右文章右文章右文章右文章右文章右文章右文章右文章右文章右文章右文章右文章</p><p>右文章右文章右文章右文章右文章右文章右文章<br>
+右文章右文章右文章右文章右文章右文章</p><p><figure><img src="https://d3em87cwiz6on0.cloudfront.net/localhost-example-com-8000/f/16777219/rc/2019/04/19/0e6749554dbc858074bb9af2ce6ce5501abd41c1_xlarge.jpg" data-file="16780545" data-org-width="1280" data-org-height="853" alt="画像: 本文中のキャプションをカバーに流用" height="853" width="1280"><figcaption>本文中のキャプションをカバーに流用</figcaption></figure></p><p>カスタムで大きい画像を左に</p><p>あああああああ<br>いいいいいいい<br>うううううううあああああああ<br>いいいいいいい<br>うううううううあああああああ<br>いいいいいいい<br>うううううううあああああああ<br>いいいいいいい<br>ううううううう</p><p>あああああああ<br>
+いいいいいいい<br>
+うううううううあああああああ<br>
+いいいいいいい<br>
+うううううううあああああああ<br>
+いいいいいいい<br>
+うううううううあああああああ<br>
+いいいいいいい<br>
+うううううううあああああああ<br>
+いいいいいいい<br>
+ううううううう<br>
+</p><p>あああああああ</p><p>いいいいいいい<br>ううううううう</p><p>ええええええええ</p><p><figure><img src="https://d3em87cwiz6on0.cloudfront.net/localhost-example-com-8000/f/16777219/rc/2019/04/19/b808f00c184db481090e88a8c15f17721424f3bd_xlarge.jpg" data-file="16780549" data-org-width="960" data-org-height="625" width="960" alt="画像: 本文画像ブロックのキャプションあああ via text for image block via link text" height="624"><figcaption>本文画像ブロックのキャプションあああ<div>via text for image block</div><span style="" data-href="https://www.google.com/">via link text</span></figcaption></figure></p>]]></content:encoded>
+			
+			
+			
+		</item>
+		
+			
+		<item>
+			<title>いろいろな要素の入った投稿（trill test)</title>
+			<link>http://dino.singles:8084/_ct/16777674</link>
+			<guid>http://dino.singles:8084/_ct/16777674</guid>
+			<pubDate>Thu, 11 Apr 2019 19:17:40 +0900</pubDate>
+			<atom:updated>Thu, 11 Apr 2019 19:17:40 +0900</atom:updated>
+			
+			<enclosure url="https://d3em87cwiz6on0.cloudfront.net/localhost-example-com-8000/f/16777219/rc/2019/04/11/12278b0134f3181a94c699268f8b1c3f9450a55f.jpg" type="image/jpeg" length="0" caption="" />
+			
+			<dc:creator>localportal</dc:creator>
+			<description>通常段落 bold italic colored link です。改行も入ってます。 いれてみる。</description>
+			
+			<content:encoded><![CDATA[<p class="summary">通常段落 <strong>bold</strong> <i>italic</i> <strong class="font-color-red">colored</strong> <span data-href="https://www.google.com/">link</span> です。<br>改行も入ってます。[インライン画像も:(画像)] いれてみる。</p><h1 class="article-heading">大見出しです。<br>改行ありです。</h1><h2 class="article-subheading">小見出しです。<br>改行ありです。</h2><p><ul><li>item1</li><li>item2</li><li>item3 <strong>bold</strong> <strong class="font-color-red">colored</strong> <i>italic</i> <span data-href="https://www.google.com/">link</span><ul><li>item3-1</li><li>item3-2</li></ul></li><li>item4</li></ul></p><p><blockquote>blockquote<cite><span data-href="http://dino.singles:8084/_ct/16777674"></span></cite></blockquote></p><p><blockquote>blockquoteパラグラフあり<cite><span style="" data-href="https://www.google.com/">www.google.com から引用</span></cite></blockquote></p><p class="cite-box"><span data-href="https://lrnc.cc">LAWRENCE - Motorcycle x Cars + α = Your Life.</span></p><p><figure><img src="https://d3em87cwiz6on0.cloudfront.net/localhost-example-com-8000/f/16777219/rc/2019/04/11/a49d986f5e15dfc23e8ee51a4fb7e2354c0de4dc_xlarge.jpg" data-file="16780526" data-org-width="1280" data-org-height="1707" alt="画像: 小見出しです。 改行ありです。" height="1707" width="1280"></figure></p><p><figure><img src="https://d3em87cwiz6on0.cloudfront.net/localhost-example-com-8000/f/16777219/rc/2019/04/11/c59b30106ba028d63e03209ae4f3b68388e29138_xlarge.jpg" data-file="16780527" data-org-width="1280" data-org-height="853" alt="画像: テキストキャプションあり" height="853" width="1280"><figcaption>テキストキャプションあり</figcaption></figure></p><p><figure><img src="https://d3em87cwiz6on0.cloudfront.net/localhost-example-com-8000/f/16777219/rc/2019/04/11/12278b0134f3181a94c699268f8b1c3f9450a55f_xlarge.jpg" data-file="16780528" data-org-width="1280" data-org-height="720" alt="画像: リンクキャプションあり www.google.com へのリンク" height="720" width="1280"><figcaption>リンクキャプションあり<span style="" data-href="https://www.google.com/">www.google.com へのリンク</span></figcaption></figure></p><p data-collapsed="figure."> [ コンテンツが省略されました。オリジナルサイトでご覧ください ]</p><p data-collapsed="figure."> [ コンテンツが省略されました。オリジナルサイトでご覧ください ]</p><p data-collapsed="figure."> [ コンテンツが省略されました。オリジナルサイトでご覧ください ]</p><p data-collapsed="figure."> [ コンテンツが省略されました。オリジナルサイトでご覧ください ]</p>  <blockquote class="instagram-media" data-instgrm-captioned="" data-instgrm-permalink="https://www.instagram.com/p/BuiHIGJgPJl/?utm_source=ig_embed&amp;utm_medium=loading" data-instgrm-version="12" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:16px;"> <a href="https://www.instagram.com/p/BuiHIGJgPJl/?utm_source=ig_embed&amp;utm_medium=loading" style=" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;" target="_blank"> <div style=" display: flex; flex-direction: row; align-items: center;"> <div style="background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;"></div> <div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center;"> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;"></div> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;"></div></div></div><div style="padding: 19% 0;"></div><div style="display:block; height:50px; margin:0 auto 12px; width:50px;"></div><div style="padding-top: 8px;"> <div style=" color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;"> View this post on Instagram</div></div><div style="padding: 12.5% 0;"></div> <div style="display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;"><div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);"></div> <div style="background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;"></div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);"></div></div><div style="margin-left: 8px;"> <div style=" background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;"></div> <div style=" width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)"></div></div><div style="margin-left: auto;"> <div style=" width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);"></div> <div style=" background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);"></div> <div style=" width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);"></div></div></div></a> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://www.instagram.com/p/BuiHIGJgPJl/?utm_source=ig_embed&amp;utm_medium=loading" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank">めっさええもん見さしてもらったので。 http://crea.bunshun.jp/articles/-/21998 #雛人形 #contemporary #hinadolls #hinadoll #japan #japangram #shotoniphone #iphonex</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a href="https://www.instagram.com/shomwoys/?utm_source=ig_embed&amp;utm_medium=loading" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px;" target="_blank"> Shoji Matsumoto</a>さん(@shomwoys)がシェアした投稿 - <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2019-03-03T04:36:50+00:00">2019年 3月月2日午後8時36分PST</time></p></div></blockquote> <p class="cite-box"><span data-href="https://pin.it/3w7devemqt7hdx">Learn more relevant information on classic cars. Look into our site. | Garage</span></p><p data-collapsed="figure."> [ コンテンツが省略されました。オリジナルサイトでご覧ください ]</p><p><span data-pin-do="embedPin" data-href="https://www.pinterest.com/pin/724094446319169993/"></span>
+</p>
+<p class="box">小さい箱</p><p data-collapsed="div.raw-html"> [ コンテンツが省略されました。オリジナルサイトでご覧ください ]</p><p>なんかおかしい？</p><p><figure><img src="https://d3em87cwiz6on0.cloudfront.net/localhost-example-com-8000/f/16777219/rc/2019/04/11/90181848637c66eff1436d1e8d33b5321cf04048.png" data-file="16780534" data-org-width="583" data-org-height="827" width="583" alt="画像1: いろいろな要素の入った投稿（trill test)" height="827"></figure></p><p>右カラムの内容ですよ。</p><p>複数ですよ。</p><p data-collapsed="div.vote"> [ コンテンツが省略されました。オリジナルサイトでご覧ください ]</p><p class="album-link"><span data-href="http://dino.singles:8084/_ct/16777674/album/16777354">[あるばむやで 3]</span></p><p data-collapsed="div.block-table"> [ コンテンツが省略されました。オリジナルサイトでご覧ください ]</p>]]></content:encoded>
+			
+			
+			
+		</item>
+		
+			
+		<item>
+			<title>youtube autoplay test 2</title>
+			<link>http://dino.singles:8084/_ct/16777672</link>
+			<guid>http://dino.singles:8084/_ct/16777672</guid>
+			<pubDate>Fri, 22 Feb 2019 16:23:23 +0900</pubDate>
+			<atom:updated>Fri, 22 Feb 2019 16:23:23 +0900</atom:updated>
+			
+			<enclosure url="https://d3em87cwiz6on0.cloudfront.net/localhost-example-com-8000/f/16777219/rc/2019/02/22/fe54ca0a240ed53bfc13bacaa8c91fc24463ce8f.jpg" type="image/jpeg" length="0" caption="" />
+			
+			<dc:creator>localportal</dc:creator>
+			<description>
+【怖い・名作・放送中止】まんが日本昔ばなし「とうせん坊」
+www.youtube.com
+
+【超スッキリ!】こんなに身勝手な走行をする違反車に警察官から停止命令で検挙の瞬間!
+www.youtube.com</description>
+			
+			<content:encoded><![CDATA[<p data-collapsed="figure."> [ コンテンツが省略されました。オリジナルサイトでご覧ください ]</p><p data-collapsed="figure."> [ コンテンツが省略されました。オリジナルサイトでご覧ください ]</p>]]></content:encoded>
+			
+			
+			
+		</item>
+		
+			
+		<item>
+			<title>youtube autoplay test</title>
+			<link>http://dino.singles:8084/_ct/16777671</link>
+			<guid>http://dino.singles:8084/_ct/16777671</guid>
+			<pubDate>Fri, 22 Feb 2019 16:20:17 +0900</pubDate>
+			<atom:updated>Fri, 22 Feb 2019 16:20:17 +0900</atom:updated>
+			
+			<enclosure url="https://d3em87cwiz6on0.cloudfront.net/localhost-example-com-8000/f/16777219/rc/2019/02/22/8c28dddeb1fb03f78c093e740c61d804a2284b6e.jpg" type="image/jpeg" length="0" caption="" />
+			
+			<dc:creator>localportal</dc:creator>
+			<description>
+BMW i8 新世代スーパーカー降臨 TestDrive
+youtu.be
+
+【怖い・名作・放送中止】まんが日本昔ばなし「とうせん坊」
+www.youtube.com</description>
+			
+			<content:encoded><![CDATA[<p data-collapsed="figure."> [ コンテンツが省略されました。オリジナルサイトでご覧ください ]</p><p data-collapsed="figure."> [ コンテンツが省略されました。オリジナルサイトでご覧ください ]</p>]]></content:encoded>
+			
+			
+			
+		</item>
+		
+			
+		<item>
+			<title>吹き出しAMPとかテスト</title>
+			<link>http://dino.singles:8084/_ct/16777670</link>
+			<guid>http://dino.singles:8084/_ct/16777670</guid>
+			<pubDate>Wed, 13 Feb 2019 18:32:28 +0900</pubDate>
+			<atom:updated>Wed, 13 Feb 2019 18:32:28 +0900</atom:updated>
+			
+			<enclosure url="https://d3em87cwiz6on0.cloudfront.net/localhost-example-com-8000/f/16777219/rc/2019/02/13/671bd9bccbbb698ade330246fd9c105913674f5e.png" type="image/jpeg" length="0" caption="" />
+			
+			<dc:creator>localportal</dc:creator>
+			<description>生HTMLでh4
+装飾ボックス内の生HTMLでh4
+SmartNews出力でおかしいらしい。
+こっちは文字列。ですよ。
+ふむふむふむ。
+もじもじくん。もじもじくん。もじもじくん。
+大きな画像＋文字いっぱいですね。大きな画像＋文字いっぱいですね。大きな画像＋文字いっぱいですね。大きな画像＋文字いっぱいですね。大きな画像＋文字いっぱいですね。大きな画像＋文字いっぱいですね。大きな画像＋文字いっぱいですね。大きな画像＋文字いっぱいですね。大きな画像＋文字いっぱいですね。大きな画像＋文字いっぱいですね。大きな画像＋文字いっぱいですね。
+大きな画像＋文字いっぱいですね。大きな画像＋文字いっぱいですね。大きな画像＋文字いっぱいですね。大きな画像＋文字いっぱいですね。大きな画像＋文字いっぱいですね。大きな画像＋文字いっぱいですね。</description>
+			
+			<content:encoded><![CDATA[<p data-collapsed="div.raw-html"> [ コンテンツが省略されました。オリジナルサイトでご覧ください ]</p><p data-collapsed="div.raw-html"> [ コンテンツが省略されました。オリジナルサイトでご覧ください ]</p><p>SmartNews出力でおかしいらしい。</p><p><figure><img src="https://d3em87cwiz6on0.cloudfront.net/localhost-example-com-8000/f/16777219/rc/2019/02/13/4bbda9f751fafc9a02c4526c7058b784f7be468b.png" data-org-src="https://placehold.jp/90x90.png" data-file="16780478" data-org-width="90" data-org-height="90" alt="画像1: 吹き出しAMPとかテスト" height="90" width="90"></figure></p><p>こっちは文字列。ですよ。</p><p><figure><img src="https://d3em87cwiz6on0.cloudfront.net/localhost-example-com-8000/f/16777219/rc/2019/02/13/671bd9bccbbb698ade330246fd9c105913674f5e.png" data-org-src="https://placehold.jp/180x180.png" data-file="16780479" data-org-width="180" data-org-height="180" alt="画像2: 吹き出しAMPとかテスト" height="180" width="180"></figure></p><p>ふむふむふむ。</p><p><figure><img src="https://d3em87cwiz6on0.cloudfront.net/localhost-example-com-8000/f/16777219/rc/2019/02/13/25d3395b2e2b9492ed78116d12d8ec06d6d93f00.png" data-org-src="https://placehold.jp/640x480.png" data-file="16780480" data-org-width="640" data-org-height="480" alt="画像3: 吹き出しAMPとかテスト" height="480" width="640"></figure></p><p>もじもじくん。もじもじくん。もじもじくん。</p><p>大きな画像＋文字いっぱいですね。大きな画像＋文字いっぱいですね。大きな画像＋文字いっぱいですね。大きな画像＋文字いっぱいですね。大きな画像＋文字いっぱいですね。大きな画像＋文字いっぱいですね。大きな画像＋文字いっぱいですね。大きな画像＋文字いっぱいですね。大きな画像＋文字いっぱいですね。大きな画像＋文字いっぱいですね。大きな画像＋文字いっぱいですね。</p><p>大きな画像＋文字いっぱいですね。大きな画像＋文字いっぱいですね。大きな画像＋文字いっぱいですね。大きな画像＋文字いっぱいですね。大きな画像＋文字いっぱいですね。大きな画像＋文字いっぱいですね。</p>]]></content:encoded>
+			
+			
+			
+		</item>
+		
+			
+		<item>
+			<title>アルバムまんがタイプテスト</title>
+			<link>http://dino.singles:8084/_ct/16777668</link>
+			<guid>http://dino.singles:8084/_ct/16777668</guid>
+			<pubDate>Fri, 01 Feb 2019 19:23:17 +0900</pubDate>
+			<atom:updated>Fri, 01 Feb 2019 19:23:17 +0900</atom:updated>
+			
+			<enclosure url="https://d3em87cwiz6on0.cloudfront.net/localhost-example-com-8000/f/16777219/rc/2019/02/01/af6e8a5610cce46ebf34905faa85452332c236c6.png" type="image/jpeg" length="0" caption="" />
+			
+			<dc:creator>localportal</dc:creator>
+			<description>p1
+p2
+p3
+p4
+p5
+p6
+p7
+p8
+p9
+p10
+p11
+p12
+p13
+p14
+p15
+p16
+p17
+p18
+p19
+p20
+title12
+aaaaa5
+test album link6
+タイトル8</description>
+			
+			<content:encoded><![CDATA[<p data-collapsed="div.raw-html"> [ コンテンツが省略されました。オリジナルサイトでご覧ください ]</p><p class="album-link"><span data-href="http://dino.singles:8084/_ct/16777668/album/16777350/image/16778191">[title 12  ]</span></p><p class="album-link"><span data-href="http://dino.singles:8084/_ct/16777668/album/16777351/image/16778203">[aaaaa 5  ]</span></p><p class="album-link"><span data-href="http://dino.singles:8084/_ct/16777668/album/16777352">[test album link 6]</span></p><p class="album-link"><span data-href="http://dino.singles:8084/_ct/16777668/album/16777353">[タイトル 8]</span></p>]]></content:encoded>
+			
+			
+			
+		</item>
+		
+			
+		<item>
+			<title>競合編集チェックc</title>
+			<link>http://dino.singles:8084/_ct/16777664</link>
+			<guid>http://dino.singles:8084/_ct/16777664</guid>
+			<pubDate>Mon, 07 Jan 2019 11:44:19 +0900</pubDate>
+			<atom:updated>Mon, 07 Jan 2019 11:44:19 +0900</atom:updated>
+			
+			<dc:creator>localportal</dc:creator>
+			<description>あああああ
+本文
+Firefoxで編集A</description>
+			
+			<content:encoded><![CDATA[<p>あああああ</p><p>本文</p><p>Firefoxで編集A</p>]]></content:encoded>
+			
+			
+			
+		</item>
+		
+			
+		<item>
+			<title>限定＋ページング＋パスマップ</title>
+			<link>http://dino.singles:8084/flowpath/16777663</link>
+			<guid>http://dino.singles:8084/flowpath/16777663</guid>
+			<pubDate>Wed, 12 Dec 2018 16:34:18 +0900</pubDate>
+			<atom:updated>Wed, 12 Dec 2018 16:34:18 +0900</atom:updated>
+			
+			<dc:creator>localportal</dc:creator>
+			<description>さまりです</description>
+			
+			<content:encoded><![CDATA[<p class="summary">さまりです</p><p><a href="http://dino.singles:8084/flowpath/16777663">元サイトで本文を読む</a></p>]]></content:encoded>
+			
+			
+			
+		</item>
+		
+	</channel>
+</rss>
